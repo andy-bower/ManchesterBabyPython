@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 #
 #   Class implementing the store lines for the Manchester Baby.
 #

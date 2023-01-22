@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 #
 #   Register for the Manchester Baby simulation.
 #

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 #
 #   Arithmetic Logic Unit for the Manchester Baby simulator.
 #
