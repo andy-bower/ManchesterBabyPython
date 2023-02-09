@@ -27,6 +27,6 @@
 26: NUM 2    -- jump address
 27: NUM 11   -- jump address
 28: NUM 0         -- Quotient (Answer appears here)
-29: NUM 100 -- 2^d where d=31-n, see line 30 for n
+29: NUM 536870912 -- 2^d where d=31-n, see line 30 for n
 30: NUM 20     -- B (Divisor*2^n) (example: 5*2^2=20)
 31: NUM 36     -- A (initial Dividend) (example: 36/5=7)
